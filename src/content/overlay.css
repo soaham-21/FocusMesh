@@ -1,0 +1,8 @@
+#overlay {
+    font-family: Arial;
+    background: #FFD700;
+    color: #000;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #000;
+}
